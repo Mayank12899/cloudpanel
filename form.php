@@ -29,7 +29,7 @@
 </div>
 </body>
 </html>
-
+<!-- Helo Hacktober-->
 <?php
     if(isset($_POST['Sub'])){
     //     echo '<div style="margin-top:30px" class="container"><div class="alert alert-success" role="alert">
